@@ -1,5 +1,5 @@
 public class Std{
-    public static void student_Profile() {
+public static void studentProfile() {
         System.out.println("Student Profile\n");
 
         System.out.println("Name: Aarush Maurya");
@@ -8,6 +8,6 @@ public class Std{
         System.out.println("Year: First Year");
     }
     public static void main(String[] args) {
-        student_Profile();
+        studentProfile();
     }
 }
